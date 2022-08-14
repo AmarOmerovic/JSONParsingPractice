@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JSONParsingPractice</string>
+    <string name="textview">TextView</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="todo">TODO</string>
+
+    <string name="city"><b>City:</b></string>
+    <string name="zipcode"><b>Zipcode:</b></string>
+    <string name="email"><b>Email:</b></string>
+    <string name="username"><b>Username:</b></string>
+    <string name="id"><b>ID:</b></string>
+    <string name="street"><b>Street:</b></string>
+    <string name="suite"><b>Suite:</b></string>
+    <string name="phone"><b>Phone:</b></string>
+    <string name="website"><b>Website:</b></string>
+    <string name="name"><b>Name:</b></string>
+    <string name="todo2">TODO</string>
+    <string name="lat">Lat:</string>
+    <string name="lng">Lng:</string>
+</resources>
